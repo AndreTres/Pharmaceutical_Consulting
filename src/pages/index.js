@@ -1,4 +1,10 @@
 import Head from 'next/head'
+import HeroSection from '../components/sections/HeroSection'
+import TargetAudienceSection from '../components/sections/TargetAudienceSection'
+import AuthorityPreviewSection from '../components/sections/AuthorityPreviewSection'
+import ServicesPreviewSection from '../components/sections/ServicesPreviewSection'
+import DifferentialsSection from '../components/sections/DifferentialsSection'
+import FinalCTASection from '../components/sections/FinalCTASection'
 
 export default function Home() {
   return (
@@ -9,13 +15,14 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="container">
-        <main className="main">
-          <h1 className="title">DTC Consultoria Farmacêutica</h1>
-          <p className="subtitle">Estratégia • Ciência • Resultados</p>
-          {/* Seções futuras serão inseridas aqui */}
-        </main>
-      </div>
+      <main>
+        <HeroSection />
+        <TargetAudienceSection />
+        <AuthorityPreviewSection />
+        <ServicesPreviewSection />
+        <DifferentialsSection />
+        <FinalCTASection />
+      </main>
     </>
   )
 }
