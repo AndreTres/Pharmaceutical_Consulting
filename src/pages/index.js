@@ -10,8 +10,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>DTC Consultoria Farmacêutica</title>
-        <meta name="description" content="Consultoria farmacêutica especializada em Farmácias de Manipulação" />
+        <title>DTC Consultoria Farmacêutica — Estratégia • Ciência • Resultado</title>
+        <meta name="description" content="Consultoria farmacêutica especializada em farmácias de manipulação. Suporte técnico-científico, estratégico e posicionamento com base em evidências." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

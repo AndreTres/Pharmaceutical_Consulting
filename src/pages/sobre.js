@@ -9,7 +9,7 @@ export default function Sobre() {
     <>
       <Head>
         <title>Sobre | DTC Consultoria Farmacêutica</title>
-        <meta name="description" content="Conheça a DTC Consultoria Farmacêutica, nossa visão científica e propósito" />
+        <meta name="description" content="Conheça a Dra. Daniela Tres Canassa e a DTC Consultoria Farmacêutica: visão científica, propósito e missão para o setor farmacêutico." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

@@ -7,7 +7,7 @@ export default function Contato() {
     <>
       <Head>
         <title>Contato | DTC Consultoria Farmacêutica</title>
-        <meta name="description" content="Entre em contato com a DTC Consultoria Farmacêutica" />
+        <meta name="description" content="Entre em contato com a DTC Consultoria Farmacêutica por WhatsApp ou e-mail. Atendimento para farmácias de manipulação." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

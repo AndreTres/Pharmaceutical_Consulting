@@ -1,8 +1,8 @@
 export default function ServicesIntroSection() {
   return (
-    <section>
+    <section className="section hero-section">
       <h1>Nossos Serviços</h1>
-      <p>Conheça as soluções que oferecemos para farmácias de manipulação e empresas do setor farmacêutico.</p>
+      <p className="lead">Soluções técnicas e estratégicas para farmácias de manipulação e empresas do setor farmacêutico.</p>
     </section>
   )
 }

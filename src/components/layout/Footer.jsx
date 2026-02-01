@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
-    <footer>
-      <div>© DTC Consultoria Farmacêutica</div>
+    <footer className="site-footer">
+      <div>© DTC Consultoria Farmacêutica — Estratégia • Ciência • Resultado</div>
     </footer>
   )
 }

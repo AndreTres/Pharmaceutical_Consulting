@@ -9,7 +9,7 @@ export default function Servicos() {
     <>
       <Head>
         <title>Serviços | DTC Consultoria Farmacêutica</title>
-        <meta name="description" content="Conheça os serviços da DTC Consultoria Farmacêutica para farmácias de manipulação" />
+        <meta name="description" content="Informes científicos, sugestões de fórmulas, otimização de estoque, capacitação técnica e posicionamento científico e comercial para farmácias de manipulação." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
