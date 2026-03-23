@@ -6,7 +6,7 @@ export default function AboutIntroSection() {
       <div className="profile-image-wrap">
         <Image
           src="/images/profile.png"
-          alt="Dra. Daniela Tres Canassa — Farmacêutica e Consultora Científica"
+          alt="Dra. Daniela Tres Canassa - Farmacêutica e Consultora Científica"
           width={160}
           height={160}
           style={{ objectFit: 'cover' }}
